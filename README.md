@@ -1,6 +1,7 @@
-# KIDR Academic Search Application
+# LuminaCite (V1)
 
-KIDR (Knowledge Information Discovery and Retrieval) is an advanced academic paper search and visualization system that combines LDA topic modeling with Pennant diagram analysis to provide intelligent literature discovery.
+LuminaCite is an advanced academic paper search and visualization system that combines LDA topic modeling with Pennant retrieval to provide intelligent literature discovery.
+PS: This platform is an output of the project “Incremental Refinement of Relevance Rankings in Machine Learning-Based Information Retrieval” supported by the 2218 - National Postdoctoral Research Fellowship Program (Project No: 124C132) and hosted by TÜBİTAK ULAKBİM.
 
 ## Features
 
@@ -176,4 +177,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Support
 
-For questions or support, please open an issue on GitHub or contact the development team.
+For questions or support, please open an issue on GitHub or contact me at mugeakbulut@gmail.com.
