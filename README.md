@@ -2,6 +2,9 @@
 
 LuminaCite is an advanced academic paper search and visualization system that combines LDA topic modeling with Pennant retrieval to provide intelligent literature discovery.
 PS: This platform is an output of the project “Incremental Refinement of Relevance Rankings in Machine Learning-Based Information Retrieval” supported by the 2218 - National Postdoctoral Research Fellowship Program (Project No: 124C132) and hosted by TÜBİTAK ULAKBİM.
+Screenshot:
+
+<img width="1449" alt="Ekran Resmi 2025-06-06 11 06 26" src="https://github.com/user-attachments/assets/63980837-5f2e-4777-a8f4-cb4b49a5c5e0" />
 
 ## Features
 
