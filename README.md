@@ -8,23 +8,23 @@ Screenshot:
 
 ## Features
 
-### 🔍 Advanced Search
+### Advanced Search
 - **Intelligent Scoring System**: Combines LDA topic relevance with Pennant access metrics
 - **Personalized Results**: Adjustable balance between diversity and relevance
 - **Real-time Filtering**: Filter by authors, subjects, and topic categories
 - **Multi-language Support**: Turkish and English interface
 
-### 📊 Interactive Visualizations
+### Interactive Visualizations
 - **Pennant Diagrams**: Visualize papers based on cognitive impact (x-axis) and access ease (y-axis)
 - **Topic Distribution Charts**: Interactive radar charts showing topic relationships
 - **Sector Analysis**: Papers categorized into Successors (A), Peers (B), and Predecessors (C) sectors
 
-### 👤 User Management
+### User Management
 - **User Registration/Login**: Secure authentication system
 - **Personal Library**: Save and organize favorite papers
 - **Research Notes**: Add personal notes to papers
 
-### 🎨 Modern Interface
+### Modern Interface
 - **Responsive Design**: Works on desktop and mobile devices
 - **Clean UI**: Intuitive design with soft color coding
 - **Interactive Elements**: Hover tooltips and clickable visualizations
