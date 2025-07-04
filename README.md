@@ -7,8 +7,6 @@ This research is based on <a href="https://www.mugeakbulut.com/">Müge Akbulut</
 
 For a demonstration of the LuminaCite (V1) https://youtu.be/pZ8d-VEhmOs
 
-<iframe width="560" height="315" src="http://www.youtube.com/watch?v=pZ8d-VEhmOs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 Screenshot:
 
 <img width="1449" alt="Ekran Resmi 2025-06-06 11 06 26" src="https://github.com/user-attachments/assets/63980837-5f2e-4777-a8f4-cb4b49a5c5e0" />
